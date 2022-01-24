@@ -1,0 +1,25 @@
+.card {
+    filter: drop-shadow(0 0 0.25rem rgb(109 100 100));
+    padding-right: 2px!important;
+    background-color: rgb(243, 241, 237);
+}
+
+img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn-bn {
+    cursor: pointer;
+    font-size: 15px;
+    float: right;
+    padding: 6px 15px;
+    border-radius: 15px;
+    background-color: #63d7fb;
+    border: none;
+    color: white;
+}
+
+.btn-bn:hover {
+    background-color: rgb(235, 68, 68);
+}

@@ -1,0 +1,24 @@
+.course-search {
+    width: 600px;
+    padding: 18px 10px;
+    border: 1px solid rgb(7, 162, 235);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.course-search:focus {
+    outline: none
+}
+
+.btn-sr {
+    cursor: pointer!important;
+    transition: .3s !important;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    padding: 5px 5px;
+    border: 1px solid #1aa;
+    background-color: #1aa;
+    border-radius: 2px;
+    width: 160px;
+}
